@@ -14,7 +14,7 @@ This repository utilizes industry-standard hardware description languages and El
 
 | Task Number | Task Domain | Core Focus | Status | Deliverables / Reports |
 
-| 01 | RTL Design and Functional Simulation | Writing clean Verilog RTL, designing testbenches, and verifying logic functionality.| Task1_RTL_Design|
+| 01 | RTL Design and Functional Simulation | Writing clean Verilog RTL, designing testbenches, and verifying logic functionality.| https://github.com/devipriyamudarakola-cmyk/InternSpark-Internship/tree/main/Task1_RTL_Design|
 
 | 02 | Synthesis and Gate-Level Simulation | Translating RTL code into a gate-level netlist, verifying post-synthesis functionality. | Link to Task 2 Folder |
 
