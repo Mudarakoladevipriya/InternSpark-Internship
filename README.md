@@ -16,7 +16,7 @@ This repository utilizes industry-standard hardware description languages and El
 
 | 01 | RTL Design and Functional Simulation | Writing clean Verilog RTL, designing testbenches, and verifying logic functionality.| https://github.com/devipriyamudarakola-cmyk/InternSpark-Internship/tree/main/Task1_RTL_Design|
 
-| 02 | Synthesis and Gate-Level Simulation | Translating RTL code into a gate-level netlist, verifying post-synthesis functionality. | Link to Task 2 Folder |
+| 02 | Synthesis and Gate-Level Simulation | Translating RTL code into a gate-level netlist, verifying post-synthesis functionality. | https://github.com/Mudarakoladevipriya/InternSpark-Internship/tree/main/Task2_Synthesis |
 
 | 03 | Static Timing Analysis (STA) | Analyzing setup/hold constraints, detecting timing violations, and achieving timing closure. | Link to Task 3 Folder |
 
