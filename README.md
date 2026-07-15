@@ -18,7 +18,7 @@ This repository utilizes industry-standard hardware description languages and El
 
 | 02 | Synthesis and Gate-Level Simulation | Translating RTL code into a gate-level netlist, verifying post-synthesis functionality. | https://github.com/Mudarakoladevipriya/InternSpark-Internship/tree/main/Task2_Synthesis |
 
-| 03 | Static Timing Analysis (STA) | Analyzing setup/hold constraints, detecting timing violations, and achieving timing closure. | Link to Task 3 Folder |
+| 03 | Static Timing Analysis (STA) | Analyzing setup/hold constraints, detecting timing violations, and achieving timing closure. | https://github.com/Mudarakoladevipriya/InternSpark-Internship/tree/main/Task3_STA|
 
 | 04 | DFT and Basic Physical Verification | Design for Testability, basic scan insertion concepts, and DRC/LVS physical checks. | Link to Task 4 Folder |
 
